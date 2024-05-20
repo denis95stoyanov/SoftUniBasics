@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\For Loop - Lab\10. Odd Even Sum\bin\Debug\net6.0\10. Odd Even Sum.exe
+C:\Users\gabri\Desktop\SoftUni\For Loop - Lab\10. Odd Even Sum\bin\Debug\net6.0\10. Odd Even Sum.deps.json
+C:\Users\gabri\Desktop\SoftUni\For Loop - Lab\10. Odd Even Sum\bin\Debug\net6.0\10. Odd Even Sum.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\For Loop - Lab\10. Odd Even Sum\bin\Debug\net6.0\10. Odd Even Sum.dll
+C:\Users\gabri\Desktop\SoftUni\For Loop - Lab\10. Odd Even Sum\bin\Debug\net6.0\10. Odd Even Sum.pdb
+C:\Users\gabri\Desktop\SoftUni\For Loop - Lab\10. Odd Even Sum\obj\Debug\net6.0\10. Odd Even Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\For Loop - Lab\10. Odd Even Sum\obj\Debug\net6.0\10. Odd Even Sum.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\For Loop - Lab\10. Odd Even Sum\obj\Debug\net6.0\10. Odd Even Sum.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\For Loop - Lab\10. Odd Even Sum\obj\Debug\net6.0\10. Odd Even Sum.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\For Loop - Lab\10. Odd Even Sum\obj\Debug\net6.0\10. Odd Even Sum.dll
+C:\Users\gabri\Desktop\SoftUni\For Loop - Lab\10. Odd Even Sum\obj\Debug\net6.0\refint\10. Odd Even Sum.dll
+C:\Users\gabri\Desktop\SoftUni\For Loop - Lab\10. Odd Even Sum\obj\Debug\net6.0\10. Odd Even Sum.pdb
+C:\Users\gabri\Desktop\SoftUni\For Loop - Lab\10. Odd Even Sum\obj\Debug\net6.0\10. Odd Even Sum.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\For Loop - Lab\10. Odd Even Sum\obj\Debug\net6.0\ref\10. Odd Even Sum.dll

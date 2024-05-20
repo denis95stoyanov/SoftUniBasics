@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\1. Trapeziod Area\bin\Debug\net6.0\1. Trapeziod Area.exe
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\1. Trapeziod Area\bin\Debug\net6.0\1. Trapeziod Area.deps.json
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\1. Trapeziod Area\bin\Debug\net6.0\1. Trapeziod Area.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\1. Trapeziod Area\bin\Debug\net6.0\1. Trapeziod Area.dll
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\1. Trapeziod Area\bin\Debug\net6.0\1. Trapeziod Area.pdb
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\1. Trapeziod Area\obj\Debug\net6.0\1. Trapeziod Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\1. Trapeziod Area\obj\Debug\net6.0\1. Trapeziod Area.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\1. Trapeziod Area\obj\Debug\net6.0\1. Trapeziod Area.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\1. Trapeziod Area\obj\Debug\net6.0\1. Trapeziod Area.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\1. Trapeziod Area\obj\Debug\net6.0\1. Trapeziod Area.dll
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\1. Trapeziod Area\obj\Debug\net6.0\refint\1. Trapeziod Area.dll
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\1. Trapeziod Area\obj\Debug\net6.0\1. Trapeziod Area.pdb
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\1. Trapeziod Area\obj\Debug\net6.0\1. Trapeziod Area.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\1. Trapeziod Area\obj\Debug\net6.0\ref\1. Trapeziod Area.dll

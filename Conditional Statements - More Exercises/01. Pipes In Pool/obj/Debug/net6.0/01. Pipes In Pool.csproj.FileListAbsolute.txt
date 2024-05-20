@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - More Exercises\01. Pipes In Pool\obj\Debug\net6.0\01. Pipes In Pool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - More Exercises\01. Pipes In Pool\obj\Debug\net6.0\01. Pipes In Pool.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - More Exercises\01. Pipes In Pool\obj\Debug\net6.0\01. Pipes In Pool.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - More Exercises\01. Pipes In Pool\obj\Debug\net6.0\01. Pipes In Pool.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - More Exercises\01. Pipes In Pool\bin\Debug\net6.0\01. Pipes In Pool.exe
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - More Exercises\01. Pipes In Pool\bin\Debug\net6.0\01. Pipes In Pool.deps.json
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - More Exercises\01. Pipes In Pool\bin\Debug\net6.0\01. Pipes In Pool.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - More Exercises\01. Pipes In Pool\bin\Debug\net6.0\01. Pipes In Pool.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - More Exercises\01. Pipes In Pool\bin\Debug\net6.0\01. Pipes In Pool.pdb
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - More Exercises\01. Pipes In Pool\obj\Debug\net6.0\01. Pipes In Pool.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - More Exercises\01. Pipes In Pool\obj\Debug\net6.0\refint\01. Pipes In Pool.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - More Exercises\01. Pipes In Pool\obj\Debug\net6.0\01. Pipes In Pool.pdb
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - More Exercises\01. Pipes In Pool\obj\Debug\net6.0\01. Pipes In Pool.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - More Exercises\01. Pipes In Pool\obj\Debug\net6.0\ref\01. Pipes In Pool.dll

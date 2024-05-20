@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\7. Hotel Room\bin\Debug\net6.0\7. Hotel Room.exe
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\7. Hotel Room\bin\Debug\net6.0\7. Hotel Room.deps.json
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\7. Hotel Room\bin\Debug\net6.0\7. Hotel Room.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\7. Hotel Room\bin\Debug\net6.0\7. Hotel Room.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\7. Hotel Room\bin\Debug\net6.0\7. Hotel Room.pdb
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\7. Hotel Room\obj\Debug\net6.0\7. Hotel Room.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\7. Hotel Room\obj\Debug\net6.0\7. Hotel Room.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\7. Hotel Room\obj\Debug\net6.0\7. Hotel Room.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\7. Hotel Room\obj\Debug\net6.0\7. Hotel Room.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\7. Hotel Room\obj\Debug\net6.0\7. Hotel Room.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\7. Hotel Room\obj\Debug\net6.0\refint\7. Hotel Room.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\7. Hotel Room\obj\Debug\net6.0\7. Hotel Room.pdb
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\7. Hotel Room\obj\Debug\net6.0\7. Hotel Room.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\7. Hotel Room\obj\Debug\net6.0\ref\7. Hotel Room.dll

@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\CsharpSoftUni\bin\Debug\net8.0\CsharpSoftUni.exe
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\CsharpSoftUni\bin\Debug\net8.0\CsharpSoftUni.deps.json
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\CsharpSoftUni\bin\Debug\net8.0\CsharpSoftUni.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\CsharpSoftUni\bin\Debug\net8.0\CsharpSoftUni.dll
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\CsharpSoftUni\bin\Debug\net8.0\CsharpSoftUni.pdb
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\CsharpSoftUni\obj\Debug\net8.0\CsharpSoftUni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\CsharpSoftUni\obj\Debug\net8.0\CsharpSoftUni.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\CsharpSoftUni\obj\Debug\net8.0\CsharpSoftUni.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\CsharpSoftUni\obj\Debug\net8.0\CsharpSoftUni.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\CsharpSoftUni\obj\Debug\net8.0\CsharpSoftUni.dll
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\CsharpSoftUni\obj\Debug\net8.0\refint\CsharpSoftUni.dll
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\CsharpSoftUni\obj\Debug\net8.0\CsharpSoftUni.pdb
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\CsharpSoftUni\obj\Debug\net8.0\CsharpSoftUni.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\CsharpSoftUni\obj\Debug\net8.0\ref\CsharpSoftUni.dll

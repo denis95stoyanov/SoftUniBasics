@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\Desktop\\SoftUni\\Nested Loops - Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD234C2B-8285-4C8C-8193-A3B9E7E96137}|03. Combinations\\03. Combinations.csproj|c:\\users\\gabri\\desktop\\softuni\\nested loops - lab\\03. combinations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD234C2B-8285-4C8C-8193-A3B9E7E96137}|03. Combinations\\03. Combinations.csproj|solutionrelative:03. combinations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EE01F62-2118-436E-9354-5D4A6A3124E5}|02. Multiplication Table\\02. Multiplication Table.csproj|c:\\users\\gabri\\desktop\\softuni\\nested loops - lab\\02. multiplication table\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EE01F62-2118-436E-9354-5D4A6A3124E5}|02. Multiplication Table\\02. Multiplication Table.csproj|solutionrelative:02. multiplication table\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE84F20-D849-4FA7-B1AD-3F85CA791245}|06. Building\\06. Building.csproj|c:\\users\\gabri\\desktop\\softuni\\nested loops - lab\\06. building\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE84F20-D849-4FA7-B1AD-3F85CA791245}|06. Building\\06. Building.csproj|solutionrelative:06. building\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066D7DC9-4BD2-491F-BDDB-0E382DBD10C9}|05. Travelling\\05. Travelling.csproj|c:\\users\\gabri\\desktop\\softuni\\nested loops - lab\\05. travelling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066D7DC9-4BD2-491F-BDDB-0E382DBD10C9}|05. Travelling\\05. Travelling.csproj|solutionrelative:05. travelling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93848C66-947E-42B5-A286-416BA399EE68}|04. Sum of Two Numbers\\04. Sum of Two Numbers.csproj|c:\\users\\gabri\\desktop\\softuni\\nested loops - lab\\04. sum of two numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93848C66-947E-42B5-A286-416BA399EE68}|04. Sum of Two Numbers\\04. Sum of Two Numbers.csproj|solutionrelative:04. sum of two numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\SoftUni\\Nested Loops - Lab\\05. Travelling\\Program.cs",
+              "RelativeDocumentMoniker": "05. Travelling\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\SoftUni\\Nested Loops - Lab\\05. Travelling\\Program.cs",
+              "RelativeToolTip": "05. Travelling\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T11:59:35.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\SoftUni\\Nested Loops - Lab\\04. Sum of Two Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "04. Sum of Two Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\SoftUni\\Nested Loops - Lab\\04. Sum of Two Numbers\\Program.cs",
+              "RelativeToolTip": "04. Sum of Two Numbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T11:58:31.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\SoftUni\\Nested Loops - Lab\\03. Combinations\\Program.cs",
+              "RelativeDocumentMoniker": "03. Combinations\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\SoftUni\\Nested Loops - Lab\\03. Combinations\\Program.cs",
+              "RelativeToolTip": "03. Combinations\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T11:58:23.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\SoftUni\\Nested Loops - Lab\\02. Multiplication Table\\Program.cs",
+              "RelativeDocumentMoniker": "02. Multiplication Table\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\SoftUni\\Nested Loops - Lab\\02. Multiplication Table\\Program.cs",
+              "RelativeToolTip": "02. Multiplication Table\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T11:58:19.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\SoftUni\\Nested Loops - Lab\\06. Building\\Program.cs",
+              "RelativeDocumentMoniker": "06. Building\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\SoftUni\\Nested Loops - Lab\\06. Building\\Program.cs",
+              "RelativeToolTip": "06. Building\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-10T18:37:27.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

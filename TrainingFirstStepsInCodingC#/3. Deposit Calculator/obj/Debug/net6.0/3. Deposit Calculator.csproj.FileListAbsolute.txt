@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\3. Deposit Calculator\bin\Debug\net6.0\3. Deposit Calculator.exe
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\3. Deposit Calculator\bin\Debug\net6.0\3. Deposit Calculator.deps.json
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\3. Deposit Calculator\bin\Debug\net6.0\3. Deposit Calculator.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\3. Deposit Calculator\bin\Debug\net6.0\3. Deposit Calculator.dll
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\3. Deposit Calculator\bin\Debug\net6.0\3. Deposit Calculator.pdb
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\3. Deposit Calculator\obj\Debug\net6.0\3. Deposit Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\3. Deposit Calculator\obj\Debug\net6.0\3. Deposit Calculator.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\3. Deposit Calculator\obj\Debug\net6.0\3. Deposit Calculator.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\3. Deposit Calculator\obj\Debug\net6.0\3. Deposit Calculator.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\3. Deposit Calculator\obj\Debug\net6.0\3. Deposit Calculator.dll
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\3. Deposit Calculator\obj\Debug\net6.0\refint\3. Deposit Calculator.dll
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\3. Deposit Calculator\obj\Debug\net6.0\3. Deposit Calculator.pdb
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\3. Deposit Calculator\obj\Debug\net6.0\3. Deposit Calculator.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\3. Deposit Calculator\obj\Debug\net6.0\ref\3. Deposit Calculator.dll

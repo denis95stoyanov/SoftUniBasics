@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\For Loop - Exercise\08. Tennis Ranklist\bin\Debug\net6.0\08. Tennis Ranklist.exe
+C:\Users\gabri\Desktop\SoftUni\For Loop - Exercise\08. Tennis Ranklist\bin\Debug\net6.0\08. Tennis Ranklist.deps.json
+C:\Users\gabri\Desktop\SoftUni\For Loop - Exercise\08. Tennis Ranklist\bin\Debug\net6.0\08. Tennis Ranklist.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\For Loop - Exercise\08. Tennis Ranklist\bin\Debug\net6.0\08. Tennis Ranklist.dll
+C:\Users\gabri\Desktop\SoftUni\For Loop - Exercise\08. Tennis Ranklist\bin\Debug\net6.0\08. Tennis Ranklist.pdb
+C:\Users\gabri\Desktop\SoftUni\For Loop - Exercise\08. Tennis Ranklist\obj\Debug\net6.0\08. Tennis Ranklist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\For Loop - Exercise\08. Tennis Ranklist\obj\Debug\net6.0\08. Tennis Ranklist.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\For Loop - Exercise\08. Tennis Ranklist\obj\Debug\net6.0\08. Tennis Ranklist.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\For Loop - Exercise\08. Tennis Ranklist\obj\Debug\net6.0\08. Tennis Ranklist.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\For Loop - Exercise\08. Tennis Ranklist\obj\Debug\net6.0\08. Tennis Ranklist.dll
+C:\Users\gabri\Desktop\SoftUni\For Loop - Exercise\08. Tennis Ranklist\obj\Debug\net6.0\refint\08. Tennis Ranklist.dll
+C:\Users\gabri\Desktop\SoftUni\For Loop - Exercise\08. Tennis Ranklist\obj\Debug\net6.0\08. Tennis Ranklist.pdb
+C:\Users\gabri\Desktop\SoftUni\For Loop - Exercise\08. Tennis Ranklist\obj\Debug\net6.0\08. Tennis Ranklist.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\For Loop - Exercise\08. Tennis Ranklist\obj\Debug\net6.0\ref\08. Tennis Ranklist.dll

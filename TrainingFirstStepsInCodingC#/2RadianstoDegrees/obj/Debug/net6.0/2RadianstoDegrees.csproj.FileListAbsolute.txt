@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\2RadianstoDegrees\bin\Debug\net6.0\2RadianstoDegrees.exe
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\2RadianstoDegrees\bin\Debug\net6.0\2RadianstoDegrees.deps.json
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\2RadianstoDegrees\bin\Debug\net6.0\2RadianstoDegrees.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\2RadianstoDegrees\bin\Debug\net6.0\2RadianstoDegrees.dll
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\2RadianstoDegrees\bin\Debug\net6.0\2RadianstoDegrees.pdb
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\2RadianstoDegrees\obj\Debug\net6.0\2RadianstoDegrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\2RadianstoDegrees\obj\Debug\net6.0\2RadianstoDegrees.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\2RadianstoDegrees\obj\Debug\net6.0\2RadianstoDegrees.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\2RadianstoDegrees\obj\Debug\net6.0\2RadianstoDegrees.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\2RadianstoDegrees\obj\Debug\net6.0\2RadianstoDegrees.dll
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\2RadianstoDegrees\obj\Debug\net6.0\refint\2RadianstoDegrees.dll
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\2RadianstoDegrees\obj\Debug\net6.0\2RadianstoDegrees.pdb
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\2RadianstoDegrees\obj\Debug\net6.0\2RadianstoDegrees.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\2RadianstoDegrees\obj\Debug\net6.0\ref\2RadianstoDegrees.dll

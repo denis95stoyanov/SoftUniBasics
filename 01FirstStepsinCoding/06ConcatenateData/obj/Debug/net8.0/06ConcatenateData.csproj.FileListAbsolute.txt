@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\06ConcatenateData\obj\Debug\net8.0\06ConcatenateData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\06ConcatenateData\obj\Debug\net8.0\06ConcatenateData.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\06ConcatenateData\obj\Debug\net8.0\06ConcatenateData.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\06ConcatenateData\obj\Debug\net8.0\06ConcatenateData.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\06ConcatenateData\bin\Debug\net8.0\06ConcatenateData.exe
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\06ConcatenateData\bin\Debug\net8.0\06ConcatenateData.deps.json
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\06ConcatenateData\bin\Debug\net8.0\06ConcatenateData.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\06ConcatenateData\bin\Debug\net8.0\06ConcatenateData.dll
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\06ConcatenateData\bin\Debug\net8.0\06ConcatenateData.pdb
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\06ConcatenateData\obj\Debug\net8.0\06ConcatenateData.dll
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\06ConcatenateData\obj\Debug\net8.0\refint\06ConcatenateData.dll
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\06ConcatenateData\obj\Debug\net8.0\06ConcatenateData.pdb
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\06ConcatenateData\obj\Debug\net8.0\06ConcatenateData.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\06ConcatenateData\obj\Debug\net8.0\ref\06ConcatenateData.dll

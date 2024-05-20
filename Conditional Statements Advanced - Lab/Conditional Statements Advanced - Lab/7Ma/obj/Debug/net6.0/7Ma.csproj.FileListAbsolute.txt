@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\7Ma\bin\Debug\net6.0\7Ma.exe
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\7Ma\bin\Debug\net6.0\7Ma.deps.json
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\7Ma\bin\Debug\net6.0\7Ma.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\7Ma\bin\Debug\net6.0\7Ma.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\7Ma\bin\Debug\net6.0\7Ma.pdb
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\7Ma\obj\Debug\net6.0\7Ma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\7Ma\obj\Debug\net6.0\7Ma.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\7Ma\obj\Debug\net6.0\7Ma.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\7Ma\obj\Debug\net6.0\7Ma.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\7Ma\obj\Debug\net6.0\7Ma.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\7Ma\obj\Debug\net6.0\refint\7Ma.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\7Ma\obj\Debug\net6.0\7Ma.pdb
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\7Ma\obj\Debug\net6.0\7Ma.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\7Ma\obj\Debug\net6.0\ref\7Ma.dll

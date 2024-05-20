@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\ExpCallculator\bin\Debug\net6.0\ExpCallculator.exe
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\ExpCallculator\bin\Debug\net6.0\ExpCallculator.deps.json
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\ExpCallculator\bin\Debug\net6.0\ExpCallculator.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\ExpCallculator\bin\Debug\net6.0\ExpCallculator.dll
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\ExpCallculator\bin\Debug\net6.0\ExpCallculator.pdb
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\ExpCallculator\obj\Debug\net6.0\ExpCallculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\ExpCallculator\obj\Debug\net6.0\ExpCallculator.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\ExpCallculator\obj\Debug\net6.0\ExpCallculator.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\ExpCallculator\obj\Debug\net6.0\ExpCallculator.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\ExpCallculator\obj\Debug\net6.0\ExpCallculator.dll
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\ExpCallculator\obj\Debug\net6.0\refint\ExpCallculator.dll
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\ExpCallculator\obj\Debug\net6.0\ExpCallculator.pdb
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\ExpCallculator\obj\Debug\net6.0\ExpCallculator.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\ExpCallculator\obj\Debug\net6.0\ref\ExpCallculator.dll

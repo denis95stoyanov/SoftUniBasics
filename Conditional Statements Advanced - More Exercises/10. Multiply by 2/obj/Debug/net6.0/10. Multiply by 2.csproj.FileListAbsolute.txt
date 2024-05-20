@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - More Exercises\10. Multiply by 2\bin\Debug\net6.0\10. Multiply by 2.exe
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - More Exercises\10. Multiply by 2\bin\Debug\net6.0\10. Multiply by 2.deps.json
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - More Exercises\10. Multiply by 2\bin\Debug\net6.0\10. Multiply by 2.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - More Exercises\10. Multiply by 2\bin\Debug\net6.0\10. Multiply by 2.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - More Exercises\10. Multiply by 2\bin\Debug\net6.0\10. Multiply by 2.pdb
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - More Exercises\10. Multiply by 2\obj\Debug\net6.0\10. Multiply by 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - More Exercises\10. Multiply by 2\obj\Debug\net6.0\10. Multiply by 2.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - More Exercises\10. Multiply by 2\obj\Debug\net6.0\10. Multiply by 2.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - More Exercises\10. Multiply by 2\obj\Debug\net6.0\10. Multiply by 2.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - More Exercises\10. Multiply by 2\obj\Debug\net6.0\10. Multiply by 2.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - More Exercises\10. Multiply by 2\obj\Debug\net6.0\refint\10. Multiply by 2.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - More Exercises\10. Multiply by 2\obj\Debug\net6.0\10. Multiply by 2.pdb
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - More Exercises\10. Multiply by 2\obj\Debug\net6.0\10. Multiply by 2.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - More Exercises\10. Multiply by 2\obj\Debug\net6.0\ref\10. Multiply by 2.dll

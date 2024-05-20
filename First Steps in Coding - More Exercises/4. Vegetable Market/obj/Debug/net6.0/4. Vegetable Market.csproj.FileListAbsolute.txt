@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\4. Vegetable Market\bin\Debug\net6.0\4. Vegetable Market.exe
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\4. Vegetable Market\bin\Debug\net6.0\4. Vegetable Market.deps.json
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\4. Vegetable Market\bin\Debug\net6.0\4. Vegetable Market.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\4. Vegetable Market\bin\Debug\net6.0\4. Vegetable Market.dll
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\4. Vegetable Market\bin\Debug\net6.0\4. Vegetable Market.pdb
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\4. Vegetable Market\obj\Debug\net6.0\4. Vegetable Market.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\4. Vegetable Market\obj\Debug\net6.0\4. Vegetable Market.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\4. Vegetable Market\obj\Debug\net6.0\4. Vegetable Market.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\4. Vegetable Market\obj\Debug\net6.0\4. Vegetable Market.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\4. Vegetable Market\obj\Debug\net6.0\4. Vegetable Market.dll
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\4. Vegetable Market\obj\Debug\net6.0\refint\4. Vegetable Market.dll
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\4. Vegetable Market\obj\Debug\net6.0\4. Vegetable Market.pdb
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\4. Vegetable Market\obj\Debug\net6.0\4. Vegetable Market.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\4. Vegetable Market\obj\Debug\net6.0\ref\4. Vegetable Market.dll

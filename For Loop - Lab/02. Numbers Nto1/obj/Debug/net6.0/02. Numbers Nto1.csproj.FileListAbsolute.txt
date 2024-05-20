@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\For Loop - Lab\02. Numbers Nto1\bin\Debug\net6.0\02. Numbers Nto1.exe
+C:\Users\gabri\Desktop\SoftUni\For Loop - Lab\02. Numbers Nto1\bin\Debug\net6.0\02. Numbers Nto1.deps.json
+C:\Users\gabri\Desktop\SoftUni\For Loop - Lab\02. Numbers Nto1\bin\Debug\net6.0\02. Numbers Nto1.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\For Loop - Lab\02. Numbers Nto1\bin\Debug\net6.0\02. Numbers Nto1.dll
+C:\Users\gabri\Desktop\SoftUni\For Loop - Lab\02. Numbers Nto1\bin\Debug\net6.0\02. Numbers Nto1.pdb
+C:\Users\gabri\Desktop\SoftUni\For Loop - Lab\02. Numbers Nto1\obj\Debug\net6.0\02. Numbers Nto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\For Loop - Lab\02. Numbers Nto1\obj\Debug\net6.0\02. Numbers Nto1.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\For Loop - Lab\02. Numbers Nto1\obj\Debug\net6.0\02. Numbers Nto1.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\For Loop - Lab\02. Numbers Nto1\obj\Debug\net6.0\02. Numbers Nto1.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\For Loop - Lab\02. Numbers Nto1\obj\Debug\net6.0\02. Numbers Nto1.dll
+C:\Users\gabri\Desktop\SoftUni\For Loop - Lab\02. Numbers Nto1\obj\Debug\net6.0\refint\02. Numbers Nto1.dll
+C:\Users\gabri\Desktop\SoftUni\For Loop - Lab\02. Numbers Nto1\obj\Debug\net6.0\02. Numbers Nto1.pdb
+C:\Users\gabri\Desktop\SoftUni\For Loop - Lab\02. Numbers Nto1\obj\Debug\net6.0\02. Numbers Nto1.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\For Loop - Lab\02. Numbers Nto1\obj\Debug\net6.0\ref\02. Numbers Nto1.dll

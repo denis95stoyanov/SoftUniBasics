@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Lab\1. Excellent Result\bin\Debug\net6.0\1. Excellent Result.exe
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Lab\1. Excellent Result\bin\Debug\net6.0\1. Excellent Result.deps.json
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Lab\1. Excellent Result\bin\Debug\net6.0\1. Excellent Result.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Lab\1. Excellent Result\bin\Debug\net6.0\1. Excellent Result.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Lab\1. Excellent Result\bin\Debug\net6.0\1. Excellent Result.pdb
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Lab\1. Excellent Result\obj\Debug\net6.0\1. Excellent Result.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Lab\1. Excellent Result\obj\Debug\net6.0\1. Excellent Result.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Lab\1. Excellent Result\obj\Debug\net6.0\1. Excellent Result.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Lab\1. Excellent Result\obj\Debug\net6.0\1. Excellent Result.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Lab\1. Excellent Result\obj\Debug\net6.0\1. Excellent Result.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Lab\1. Excellent Result\obj\Debug\net6.0\refint\1. Excellent Result.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Lab\1. Excellent Result\obj\Debug\net6.0\1. Excellent Result.pdb
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Lab\1. Excellent Result\obj\Debug\net6.0\1. Excellent Result.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Lab\1. Excellent Result\obj\Debug\net6.0\ref\1. Excellent Result.dll

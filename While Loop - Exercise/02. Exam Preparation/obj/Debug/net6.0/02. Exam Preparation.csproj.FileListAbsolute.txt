@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\While Loop - Exercise\02. Exam Preparation\bin\Debug\net6.0\02. Exam Preparation.exe
+C:\Users\gabri\Desktop\SoftUni\While Loop - Exercise\02. Exam Preparation\bin\Debug\net6.0\02. Exam Preparation.deps.json
+C:\Users\gabri\Desktop\SoftUni\While Loop - Exercise\02. Exam Preparation\bin\Debug\net6.0\02. Exam Preparation.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\While Loop - Exercise\02. Exam Preparation\bin\Debug\net6.0\02. Exam Preparation.dll
+C:\Users\gabri\Desktop\SoftUni\While Loop - Exercise\02. Exam Preparation\bin\Debug\net6.0\02. Exam Preparation.pdb
+C:\Users\gabri\Desktop\SoftUni\While Loop - Exercise\02. Exam Preparation\obj\Debug\net6.0\02. Exam Preparation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\While Loop - Exercise\02. Exam Preparation\obj\Debug\net6.0\02. Exam Preparation.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\While Loop - Exercise\02. Exam Preparation\obj\Debug\net6.0\02. Exam Preparation.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\While Loop - Exercise\02. Exam Preparation\obj\Debug\net6.0\02. Exam Preparation.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\While Loop - Exercise\02. Exam Preparation\obj\Debug\net6.0\02. Exam Preparation.dll
+C:\Users\gabri\Desktop\SoftUni\While Loop - Exercise\02. Exam Preparation\obj\Debug\net6.0\refint\02. Exam Preparation.dll
+C:\Users\gabri\Desktop\SoftUni\While Loop - Exercise\02. Exam Preparation\obj\Debug\net6.0\02. Exam Preparation.pdb
+C:\Users\gabri\Desktop\SoftUni\While Loop - Exercise\02. Exam Preparation\obj\Debug\net6.0\02. Exam Preparation.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\While Loop - Exercise\02. Exam Preparation\obj\Debug\net6.0\ref\02. Exam Preparation.dll

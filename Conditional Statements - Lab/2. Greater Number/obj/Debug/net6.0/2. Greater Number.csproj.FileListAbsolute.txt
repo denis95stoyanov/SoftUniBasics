@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Lab\2. Greater Number\bin\Debug\net6.0\2. Greater Number.exe
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Lab\2. Greater Number\bin\Debug\net6.0\2. Greater Number.deps.json
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Lab\2. Greater Number\bin\Debug\net6.0\2. Greater Number.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Lab\2. Greater Number\bin\Debug\net6.0\2. Greater Number.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Lab\2. Greater Number\bin\Debug\net6.0\2. Greater Number.pdb
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Lab\2. Greater Number\obj\Debug\net6.0\2. Greater Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Lab\2. Greater Number\obj\Debug\net6.0\2. Greater Number.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Lab\2. Greater Number\obj\Debug\net6.0\2. Greater Number.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Lab\2. Greater Number\obj\Debug\net6.0\2. Greater Number.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Lab\2. Greater Number\obj\Debug\net6.0\2. Greater Number.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Lab\2. Greater Number\obj\Debug\net6.0\refint\2. Greater Number.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Lab\2. Greater Number\obj\Debug\net6.0\2. Greater Number.pdb
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Lab\2. Greater Number\obj\Debug\net6.0\2. Greater Number.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Lab\2. Greater Number\obj\Debug\net6.0\ref\2. Greater Number.dll

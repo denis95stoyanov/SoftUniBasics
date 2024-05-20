@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\05GreetingByName\bin\Debug\net8.0\05GreetingByName.exe
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\05GreetingByName\bin\Debug\net8.0\05GreetingByName.deps.json
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\05GreetingByName\bin\Debug\net8.0\05GreetingByName.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\05GreetingByName\bin\Debug\net8.0\05GreetingByName.dll
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\05GreetingByName\bin\Debug\net8.0\05GreetingByName.pdb
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\05GreetingByName\obj\Debug\net8.0\05GreetingByName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\05GreetingByName\obj\Debug\net8.0\05GreetingByName.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\05GreetingByName\obj\Debug\net8.0\05GreetingByName.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\05GreetingByName\obj\Debug\net8.0\05GreetingByName.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\05GreetingByName\obj\Debug\net8.0\05GreetingByName.dll
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\05GreetingByName\obj\Debug\net8.0\refint\05GreetingByName.dll
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\05GreetingByName\obj\Debug\net8.0\05GreetingByName.pdb
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\05GreetingByName\obj\Debug\net8.0\05GreetingByName.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\05GreetingByName\obj\Debug\net8.0\ref\05GreetingByName.dll

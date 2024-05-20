@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\2. Triangle Area\bin\Debug\net6.0\2. Triangle Area.exe
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\2. Triangle Area\bin\Debug\net6.0\2. Triangle Area.deps.json
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\2. Triangle Area\bin\Debug\net6.0\2. Triangle Area.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\2. Triangle Area\bin\Debug\net6.0\2. Triangle Area.dll
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\2. Triangle Area\bin\Debug\net6.0\2. Triangle Area.pdb
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\2. Triangle Area\obj\Debug\net6.0\2. Triangle Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\2. Triangle Area\obj\Debug\net6.0\2. Triangle Area.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\2. Triangle Area\obj\Debug\net6.0\2. Triangle Area.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\2. Triangle Area\obj\Debug\net6.0\2. Triangle Area.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\2. Triangle Area\obj\Debug\net6.0\2. Triangle Area.dll
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\2. Triangle Area\obj\Debug\net6.0\refint\2. Triangle Area.dll
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\2. Triangle Area\obj\Debug\net6.0\2. Triangle Area.pdb
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\2. Triangle Area\obj\Debug\net6.0\2. Triangle Area.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\2. Triangle Area\obj\Debug\net6.0\ref\2. Triangle Area.dll

@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\net6.0\10. Invalid Number.exe
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\net6.0\10. Invalid Number.deps.json
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\net6.0\10. Invalid Number.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\net6.0\10. Invalid Number.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\net6.0\10. Invalid Number.pdb
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net6.0\10. Invalid Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net6.0\10. Invalid Number.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net6.0\10. Invalid Number.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net6.0\10. Invalid Number.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net6.0\10. Invalid Number.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net6.0\refint\10. Invalid Number.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net6.0\10. Invalid Number.pdb
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net6.0\10. Invalid Number.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net6.0\ref\10. Invalid Number.dll

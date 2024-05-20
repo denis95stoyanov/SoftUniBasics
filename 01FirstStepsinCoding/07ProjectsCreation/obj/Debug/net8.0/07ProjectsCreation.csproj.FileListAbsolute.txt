@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\07ProjectsCreation\bin\Debug\net8.0\07ProjectsCreation.exe
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\07ProjectsCreation\bin\Debug\net8.0\07ProjectsCreation.deps.json
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\07ProjectsCreation\bin\Debug\net8.0\07ProjectsCreation.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\07ProjectsCreation\bin\Debug\net8.0\07ProjectsCreation.dll
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\07ProjectsCreation\bin\Debug\net8.0\07ProjectsCreation.pdb
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\07ProjectsCreation\obj\Debug\net8.0\07ProjectsCreation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\07ProjectsCreation\obj\Debug\net8.0\07ProjectsCreation.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\07ProjectsCreation\obj\Debug\net8.0\07ProjectsCreation.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\07ProjectsCreation\obj\Debug\net8.0\07ProjectsCreation.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\07ProjectsCreation\obj\Debug\net8.0\07ProjectsCreation.dll
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\07ProjectsCreation\obj\Debug\net8.0\refint\07ProjectsCreation.dll
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\07ProjectsCreation\obj\Debug\net8.0\07ProjectsCreation.pdb
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\07ProjectsCreation\obj\Debug\net8.0\07ProjectsCreation.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\07ProjectsCreation\obj\Debug\net8.0\ref\07ProjectsCreation.dll

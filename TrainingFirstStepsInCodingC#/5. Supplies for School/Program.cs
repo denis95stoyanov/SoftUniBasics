@@ -1,0 +1,11 @@
+﻿double pen = double.Parse(Console.ReadLine());
+double marker = double.Parse(Console.ReadLine());
+double vero = double.Parse(Console.ReadLine());
+double discount = double.Parse(Console.ReadLine());
+double penPrice = pen * 5.80;
+double markerPrice = marker * 7.20;
+double veroPrice = vero * 1.20;
+double discountPrice = discount / 100;
+double value = penPrice + markerPrice + veroPrice;
+double valueDiscountPrice = value - (value * discountPrice);
+Console.WriteLine(valueDiscountPrice);

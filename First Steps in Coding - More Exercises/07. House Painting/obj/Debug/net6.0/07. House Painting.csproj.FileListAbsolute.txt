@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\07. House Painting\bin\Debug\net6.0\07. House Painting.exe
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\07. House Painting\bin\Debug\net6.0\07. House Painting.deps.json
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\07. House Painting\bin\Debug\net6.0\07. House Painting.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\07. House Painting\bin\Debug\net6.0\07. House Painting.dll
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\07. House Painting\bin\Debug\net6.0\07. House Painting.pdb
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\07. House Painting\obj\Debug\net6.0\07. House Painting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\07. House Painting\obj\Debug\net6.0\07. House Painting.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\07. House Painting\obj\Debug\net6.0\07. House Painting.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\07. House Painting\obj\Debug\net6.0\07. House Painting.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\07. House Painting\obj\Debug\net6.0\07. House Painting.dll
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\07. House Painting\obj\Debug\net6.0\refint\07. House Painting.dll
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\07. House Painting\obj\Debug\net6.0\07. House Painting.pdb
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\07. House Painting\obj\Debug\net6.0\07. House Painting.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\07. House Painting\obj\Debug\net6.0\ref\07. House Painting.dll

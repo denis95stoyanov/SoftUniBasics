@@ -1,0 +1,12 @@
+﻿int V = int.Parse(Console.ReadLine());
+int P1 = int.Parse(Console.ReadLine());
+int P2 = int.Parse(Console.ReadLine());
+double H = double.Parse(Console.ReadLine());
+double P1Liters = P1 * H;
+double P2Liters = P2 * H;
+double P1P2Liters = P1Liters + P2Liters;
+double P1Percent = (P1Liters * 100) / P1P2Liters;
+double P2Percent = (P2Liters * 100) / P1P2Liters;
+double sumPercent = (P1P2Liters * 100) / V;
+if (P1P2Liters <= V) Console.WriteLine($"The pool is {sumPercent:f2}% full. Pipe 1: {P1Percent:f2}%. Pipe 2: {P2Percent:f2}%.");
+else Console.WriteLine($"For {H:f2} hours the pool overflows with {P1P2Liters - V} liters.");

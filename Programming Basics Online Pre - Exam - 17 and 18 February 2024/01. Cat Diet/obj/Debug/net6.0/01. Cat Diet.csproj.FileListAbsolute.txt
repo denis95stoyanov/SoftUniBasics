@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\01. Cat Diet\bin\Debug\net6.0\01. Cat Diet.exe
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\01. Cat Diet\bin\Debug\net6.0\01. Cat Diet.deps.json
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\01. Cat Diet\bin\Debug\net6.0\01. Cat Diet.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\01. Cat Diet\bin\Debug\net6.0\01. Cat Diet.dll
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\01. Cat Diet\bin\Debug\net6.0\01. Cat Diet.pdb
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\01. Cat Diet\obj\Debug\net6.0\01. Cat Diet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\01. Cat Diet\obj\Debug\net6.0\01. Cat Diet.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\01. Cat Diet\obj\Debug\net6.0\01. Cat Diet.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\01. Cat Diet\obj\Debug\net6.0\01. Cat Diet.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\01. Cat Diet\obj\Debug\net6.0\01. Cat Diet.dll
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\01. Cat Diet\obj\Debug\net6.0\refint\01. Cat Diet.dll
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\01. Cat Diet\obj\Debug\net6.0\01. Cat Diet.pdb
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\01. Cat Diet\obj\Debug\net6.0\01. Cat Diet.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\01. Cat Diet\obj\Debug\net6.0\ref\01. Cat Diet.dll

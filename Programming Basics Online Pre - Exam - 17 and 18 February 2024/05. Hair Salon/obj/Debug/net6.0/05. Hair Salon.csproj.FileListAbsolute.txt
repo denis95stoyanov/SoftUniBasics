@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\05. Hair Salon\obj\Debug\net6.0\05. Hair Salon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\05. Hair Salon\obj\Debug\net6.0\05. Hair Salon.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\05. Hair Salon\obj\Debug\net6.0\05. Hair Salon.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\05. Hair Salon\obj\Debug\net6.0\05. Hair Salon.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\05. Hair Salon\bin\Debug\net6.0\05. Hair Salon.exe
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\05. Hair Salon\bin\Debug\net6.0\05. Hair Salon.deps.json
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\05. Hair Salon\bin\Debug\net6.0\05. Hair Salon.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\05. Hair Salon\bin\Debug\net6.0\05. Hair Salon.dll
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\05. Hair Salon\bin\Debug\net6.0\05. Hair Salon.pdb
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\05. Hair Salon\obj\Debug\net6.0\05. Hair Salon.dll
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\05. Hair Salon\obj\Debug\net6.0\refint\05. Hair Salon.dll
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\05. Hair Salon\obj\Debug\net6.0\05. Hair Salon.pdb
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\05. Hair Salon\obj\Debug\net6.0\05. Hair Salon.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\05. Hair Salon\obj\Debug\net6.0\ref\05. Hair Salon.dll

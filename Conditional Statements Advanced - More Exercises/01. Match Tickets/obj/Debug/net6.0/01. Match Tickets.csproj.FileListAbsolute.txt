@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - More Exercises\01. Match Tickets\bin\Debug\net6.0\01. Match Tickets.exe
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - More Exercises\01. Match Tickets\bin\Debug\net6.0\01. Match Tickets.deps.json
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - More Exercises\01. Match Tickets\bin\Debug\net6.0\01. Match Tickets.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - More Exercises\01. Match Tickets\bin\Debug\net6.0\01. Match Tickets.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - More Exercises\01. Match Tickets\bin\Debug\net6.0\01. Match Tickets.pdb
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - More Exercises\01. Match Tickets\obj\Debug\net6.0\01. Match Tickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - More Exercises\01. Match Tickets\obj\Debug\net6.0\01. Match Tickets.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - More Exercises\01. Match Tickets\obj\Debug\net6.0\01. Match Tickets.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - More Exercises\01. Match Tickets\obj\Debug\net6.0\01. Match Tickets.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - More Exercises\01. Match Tickets\obj\Debug\net6.0\01. Match Tickets.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - More Exercises\01. Match Tickets\obj\Debug\net6.0\refint\01. Match Tickets.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - More Exercises\01. Match Tickets\obj\Debug\net6.0\01. Match Tickets.pdb
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - More Exercises\01. Match Tickets\obj\Debug\net6.0\01. Match Tickets.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - More Exercises\01. Match Tickets\obj\Debug\net6.0\ref\01. Match Tickets.dll

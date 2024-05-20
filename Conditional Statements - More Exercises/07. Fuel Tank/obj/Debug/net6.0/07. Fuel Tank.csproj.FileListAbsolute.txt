@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - More Exercises\07. Fuel Tank\bin\Debug\net6.0\07. Fuel Tank.exe
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - More Exercises\07. Fuel Tank\bin\Debug\net6.0\07. Fuel Tank.deps.json
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - More Exercises\07. Fuel Tank\bin\Debug\net6.0\07. Fuel Tank.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - More Exercises\07. Fuel Tank\bin\Debug\net6.0\07. Fuel Tank.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - More Exercises\07. Fuel Tank\bin\Debug\net6.0\07. Fuel Tank.pdb
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - More Exercises\07. Fuel Tank\obj\Debug\net6.0\07. Fuel Tank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - More Exercises\07. Fuel Tank\obj\Debug\net6.0\07. Fuel Tank.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - More Exercises\07. Fuel Tank\obj\Debug\net6.0\07. Fuel Tank.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - More Exercises\07. Fuel Tank\obj\Debug\net6.0\07. Fuel Tank.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - More Exercises\07. Fuel Tank\obj\Debug\net6.0\07. Fuel Tank.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - More Exercises\07. Fuel Tank\obj\Debug\net6.0\refint\07. Fuel Tank.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - More Exercises\07. Fuel Tank\obj\Debug\net6.0\07. Fuel Tank.pdb
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - More Exercises\07. Fuel Tank\obj\Debug\net6.0\07. Fuel Tank.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - More Exercises\07. Fuel Tank\obj\Debug\net6.0\ref\07. Fuel Tank.dll

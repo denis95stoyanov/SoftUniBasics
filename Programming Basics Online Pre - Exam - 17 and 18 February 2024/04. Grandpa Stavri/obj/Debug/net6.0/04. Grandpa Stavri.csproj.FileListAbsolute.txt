@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\04. Grandpa Stavri\bin\Debug\net6.0\04. Grandpa Stavri.exe
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\04. Grandpa Stavri\bin\Debug\net6.0\04. Grandpa Stavri.deps.json
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\04. Grandpa Stavri\bin\Debug\net6.0\04. Grandpa Stavri.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\04. Grandpa Stavri\bin\Debug\net6.0\04. Grandpa Stavri.dll
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\04. Grandpa Stavri\bin\Debug\net6.0\04. Grandpa Stavri.pdb
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\04. Grandpa Stavri\obj\Debug\net6.0\04. Grandpa Stavri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\04. Grandpa Stavri\obj\Debug\net6.0\04. Grandpa Stavri.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\04. Grandpa Stavri\obj\Debug\net6.0\04. Grandpa Stavri.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\04. Grandpa Stavri\obj\Debug\net6.0\04. Grandpa Stavri.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\04. Grandpa Stavri\obj\Debug\net6.0\04. Grandpa Stavri.dll
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\04. Grandpa Stavri\obj\Debug\net6.0\refint\04. Grandpa Stavri.dll
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\04. Grandpa Stavri\obj\Debug\net6.0\04. Grandpa Stavri.pdb
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\04. Grandpa Stavri\obj\Debug\net6.0\04. Grandpa Stavri.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\04. Grandpa Stavri\obj\Debug\net6.0\ref\04. Grandpa Stavri.dll

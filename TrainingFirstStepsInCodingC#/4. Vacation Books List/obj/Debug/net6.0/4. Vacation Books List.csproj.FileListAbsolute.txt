@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\4. Vacation Books List\bin\Debug\net6.0\4. Vacation Books List.exe
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\4. Vacation Books List\bin\Debug\net6.0\4. Vacation Books List.deps.json
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\4. Vacation Books List\bin\Debug\net6.0\4. Vacation Books List.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\4. Vacation Books List\bin\Debug\net6.0\4. Vacation Books List.dll
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\4. Vacation Books List\bin\Debug\net6.0\4. Vacation Books List.pdb
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\4. Vacation Books List\obj\Debug\net6.0\4. Vacation Books List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\4. Vacation Books List\obj\Debug\net6.0\4. Vacation Books List.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\4. Vacation Books List\obj\Debug\net6.0\4. Vacation Books List.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\4. Vacation Books List\obj\Debug\net6.0\4. Vacation Books List.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\4. Vacation Books List\obj\Debug\net6.0\4. Vacation Books List.dll
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\4. Vacation Books List\obj\Debug\net6.0\refint\4. Vacation Books List.dll
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\4. Vacation Books List\obj\Debug\net6.0\4. Vacation Books List.pdb
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\4. Vacation Books List\obj\Debug\net6.0\4. Vacation Books List.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\4. Vacation Books List\obj\Debug\net6.0\ref\4. Vacation Books List.dll

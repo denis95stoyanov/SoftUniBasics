@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\7. Shopping\bin\Debug\net6.0\7. Shopping.exe
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\7. Shopping\bin\Debug\net6.0\7. Shopping.deps.json
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\7. Shopping\bin\Debug\net6.0\7. Shopping.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\7. Shopping\bin\Debug\net6.0\7. Shopping.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\7. Shopping\bin\Debug\net6.0\7. Shopping.pdb
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\7. Shopping\obj\Debug\net6.0\7. Shopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\7. Shopping\obj\Debug\net6.0\7. Shopping.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\7. Shopping\obj\Debug\net6.0\7. Shopping.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\7. Shopping\obj\Debug\net6.0\7. Shopping.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\7. Shopping\obj\Debug\net6.0\7. Shopping.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\7. Shopping\obj\Debug\net6.0\refint\7. Shopping.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\7. Shopping\obj\Debug\net6.0\7. Shopping.pdb
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\7. Shopping\obj\Debug\net6.0\7. Shopping.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\7. Shopping\obj\Debug\net6.0\ref\7. Shopping.dll

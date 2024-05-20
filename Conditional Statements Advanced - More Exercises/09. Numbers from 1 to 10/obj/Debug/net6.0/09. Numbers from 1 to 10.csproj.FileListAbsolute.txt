@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - More Exercises\09. Numbers from 1 to 10\bin\Debug\net6.0\09. Numbers from 1 to 10.exe
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - More Exercises\09. Numbers from 1 to 10\bin\Debug\net6.0\09. Numbers from 1 to 10.deps.json
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - More Exercises\09. Numbers from 1 to 10\bin\Debug\net6.0\09. Numbers from 1 to 10.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - More Exercises\09. Numbers from 1 to 10\bin\Debug\net6.0\09. Numbers from 1 to 10.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - More Exercises\09. Numbers from 1 to 10\bin\Debug\net6.0\09. Numbers from 1 to 10.pdb
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - More Exercises\09. Numbers from 1 to 10\obj\Debug\net6.0\09. Numbers from 1 to 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - More Exercises\09. Numbers from 1 to 10\obj\Debug\net6.0\09. Numbers from 1 to 10.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - More Exercises\09. Numbers from 1 to 10\obj\Debug\net6.0\09. Numbers from 1 to 10.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - More Exercises\09. Numbers from 1 to 10\obj\Debug\net6.0\09. Numbers from 1 to 10.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - More Exercises\09. Numbers from 1 to 10\obj\Debug\net6.0\09. Numbers from 1 to 10.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - More Exercises\09. Numbers from 1 to 10\obj\Debug\net6.0\refint\09. Numbers from 1 to 10.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - More Exercises\09. Numbers from 1 to 10\obj\Debug\net6.0\09. Numbers from 1 to 10.pdb
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - More Exercises\09. Numbers from 1 to 10\obj\Debug\net6.0\09. Numbers from 1 to 10.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - More Exercises\09. Numbers from 1 to 10\obj\Debug\net6.0\ref\09. Numbers from 1 to 10.dll

@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\09. Weather Forecast\bin\Debug\net6.0\09. Weather Forecast.exe
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\09. Weather Forecast\bin\Debug\net6.0\09. Weather Forecast.deps.json
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\09. Weather Forecast\bin\Debug\net6.0\09. Weather Forecast.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\09. Weather Forecast\bin\Debug\net6.0\09. Weather Forecast.dll
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\09. Weather Forecast\bin\Debug\net6.0\09. Weather Forecast.pdb
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\09. Weather Forecast\obj\Debug\net6.0\09. Weather Forecast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\09. Weather Forecast\obj\Debug\net6.0\09. Weather Forecast.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\09. Weather Forecast\obj\Debug\net6.0\09. Weather Forecast.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\09. Weather Forecast\obj\Debug\net6.0\09. Weather Forecast.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\09. Weather Forecast\obj\Debug\net6.0\09. Weather Forecast.dll
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\09. Weather Forecast\obj\Debug\net6.0\refint\09. Weather Forecast.dll
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\09. Weather Forecast\obj\Debug\net6.0\09. Weather Forecast.pdb
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\09. Weather Forecast\obj\Debug\net6.0\09. Weather Forecast.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\09. Weather Forecast\obj\Debug\net6.0\ref\09. Weather Forecast.dll

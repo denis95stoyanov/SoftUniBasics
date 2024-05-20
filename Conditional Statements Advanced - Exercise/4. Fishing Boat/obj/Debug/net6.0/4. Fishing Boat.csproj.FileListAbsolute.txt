@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\4. Fishing Boat\bin\Debug\net6.0\4. Fishing Boat.exe
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\4. Fishing Boat\bin\Debug\net6.0\4. Fishing Boat.deps.json
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\4. Fishing Boat\bin\Debug\net6.0\4. Fishing Boat.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\4. Fishing Boat\bin\Debug\net6.0\4. Fishing Boat.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\4. Fishing Boat\bin\Debug\net6.0\4. Fishing Boat.pdb
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\4. Fishing Boat\obj\Debug\net6.0\4. Fishing Boat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\4. Fishing Boat\obj\Debug\net6.0\4. Fishing Boat.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\4. Fishing Boat\obj\Debug\net6.0\4. Fishing Boat.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\4. Fishing Boat\obj\Debug\net6.0\4. Fishing Boat.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\4. Fishing Boat\obj\Debug\net6.0\4. Fishing Boat.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\4. Fishing Boat\obj\Debug\net6.0\refint\4. Fishing Boat.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\4. Fishing Boat\obj\Debug\net6.0\4. Fishing Boat.pdb
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\4. Fishing Boat\obj\Debug\net6.0\4. Fishing Boat.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\4. Fishing Boat\obj\Debug\net6.0\ref\4. Fishing Boat.dll

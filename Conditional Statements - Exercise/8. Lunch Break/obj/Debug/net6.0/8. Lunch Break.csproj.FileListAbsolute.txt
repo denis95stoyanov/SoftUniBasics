@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\8. Lunch Break\bin\Debug\net6.0\8. Lunch Break.exe
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\8. Lunch Break\bin\Debug\net6.0\8. Lunch Break.deps.json
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\8. Lunch Break\bin\Debug\net6.0\8. Lunch Break.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\8. Lunch Break\bin\Debug\net6.0\8. Lunch Break.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\8. Lunch Break\bin\Debug\net6.0\8. Lunch Break.pdb
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\8. Lunch Break\obj\Debug\net6.0\8. Lunch Break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\8. Lunch Break\obj\Debug\net6.0\8. Lunch Break.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\8. Lunch Break\obj\Debug\net6.0\8. Lunch Break.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\8. Lunch Break\obj\Debug\net6.0\8. Lunch Break.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\8. Lunch Break\obj\Debug\net6.0\8. Lunch Break.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\8. Lunch Break\obj\Debug\net6.0\refint\8. Lunch Break.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\8. Lunch Break\obj\Debug\net6.0\8. Lunch Break.pdb
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\8. Lunch Break\obj\Debug\net6.0\8. Lunch Break.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\8. Lunch Break\obj\Debug\net6.0\ref\8. Lunch Break.dll

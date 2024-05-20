@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\9. Fish Tank\bin\Debug\net6.0\9. Fish Tank.exe
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\9. Fish Tank\bin\Debug\net6.0\9. Fish Tank.deps.json
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\9. Fish Tank\bin\Debug\net6.0\9. Fish Tank.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\9. Fish Tank\bin\Debug\net6.0\9. Fish Tank.dll
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\9. Fish Tank\bin\Debug\net6.0\9. Fish Tank.pdb
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\9. Fish Tank\obj\Debug\net6.0\9. Fish Tank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\9. Fish Tank\obj\Debug\net6.0\9. Fish Tank.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\9. Fish Tank\obj\Debug\net6.0\9. Fish Tank.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\9. Fish Tank\obj\Debug\net6.0\9. Fish Tank.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\9. Fish Tank\obj\Debug\net6.0\9. Fish Tank.dll
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\9. Fish Tank\obj\Debug\net6.0\refint\9. Fish Tank.dll
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\9. Fish Tank\obj\Debug\net6.0\9. Fish Tank.pdb
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\9. Fish Tank\obj\Debug\net6.0\9. Fish Tank.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\9. Fish Tank\obj\Debug\net6.0\ref\9. Fish Tank.dll

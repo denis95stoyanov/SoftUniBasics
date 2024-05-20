@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\5. Small Shop\bin\Debug\net6.0\5. Small Shop.exe
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\5. Small Shop\bin\Debug\net6.0\5. Small Shop.deps.json
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\5. Small Shop\bin\Debug\net6.0\5. Small Shop.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\5. Small Shop\bin\Debug\net6.0\5. Small Shop.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\5. Small Shop\bin\Debug\net6.0\5. Small Shop.pdb
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\5. Small Shop\obj\Debug\net6.0\5. Small Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\5. Small Shop\obj\Debug\net6.0\5. Small Shop.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\5. Small Shop\obj\Debug\net6.0\5. Small Shop.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\5. Small Shop\obj\Debug\net6.0\5. Small Shop.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\5. Small Shop\obj\Debug\net6.0\5. Small Shop.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\5. Small Shop\obj\Debug\net6.0\refint\5. Small Shop.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\5. Small Shop\obj\Debug\net6.0\5. Small Shop.pdb
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\5. Small Shop\obj\Debug\net6.0\5. Small Shop.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\5. Small Shop\obj\Debug\net6.0\ref\5. Small Shop.dll

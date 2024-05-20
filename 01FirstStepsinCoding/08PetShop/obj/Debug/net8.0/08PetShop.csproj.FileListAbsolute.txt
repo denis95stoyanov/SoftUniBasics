@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\08PetShop\bin\Debug\net8.0\08PetShop.exe
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\08PetShop\bin\Debug\net8.0\08PetShop.deps.json
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\08PetShop\bin\Debug\net8.0\08PetShop.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\08PetShop\bin\Debug\net8.0\08PetShop.dll
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\08PetShop\bin\Debug\net8.0\08PetShop.pdb
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\08PetShop\obj\Debug\net8.0\08PetShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\08PetShop\obj\Debug\net8.0\08PetShop.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\08PetShop\obj\Debug\net8.0\08PetShop.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\08PetShop\obj\Debug\net8.0\08PetShop.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\08PetShop\obj\Debug\net8.0\08PetShop.dll
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\08PetShop\obj\Debug\net8.0\refint\08PetShop.dll
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\08PetShop\obj\Debug\net8.0\08PetShop.pdb
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\08PetShop\obj\Debug\net8.0\08PetShop.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\08PetShop\obj\Debug\net8.0\ref\08PetShop.dll

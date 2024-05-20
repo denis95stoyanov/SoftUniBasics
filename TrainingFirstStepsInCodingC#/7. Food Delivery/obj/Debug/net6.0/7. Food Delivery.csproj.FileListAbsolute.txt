@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\7. Food Delivery\bin\Debug\net6.0\7. Food Delivery.exe
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\7. Food Delivery\bin\Debug\net6.0\7. Food Delivery.deps.json
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\7. Food Delivery\bin\Debug\net6.0\7. Food Delivery.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\7. Food Delivery\bin\Debug\net6.0\7. Food Delivery.dll
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\7. Food Delivery\bin\Debug\net6.0\7. Food Delivery.pdb
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\7. Food Delivery\obj\Debug\net6.0\7. Food Delivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\7. Food Delivery\obj\Debug\net6.0\7. Food Delivery.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\7. Food Delivery\obj\Debug\net6.0\7. Food Delivery.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\7. Food Delivery\obj\Debug\net6.0\7. Food Delivery.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\7. Food Delivery\obj\Debug\net6.0\7. Food Delivery.dll
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\7. Food Delivery\obj\Debug\net6.0\refint\7. Food Delivery.dll
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\7. Food Delivery\obj\Debug\net6.0\7. Food Delivery.pdb
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\7. Food Delivery\obj\Debug\net6.0\7. Food Delivery.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\7. Food Delivery\obj\Debug\net6.0\ref\7. Food Delivery.dll

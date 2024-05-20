@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\8. Basketball Equipment\bin\Debug\net6.0\8. Basketball Equipment.exe
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\8. Basketball Equipment\bin\Debug\net6.0\8. Basketball Equipment.deps.json
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\8. Basketball Equipment\bin\Debug\net6.0\8. Basketball Equipment.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\8. Basketball Equipment\bin\Debug\net6.0\8. Basketball Equipment.dll
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\8. Basketball Equipment\bin\Debug\net6.0\8. Basketball Equipment.pdb
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\8. Basketball Equipment\obj\Debug\net6.0\8. Basketball Equipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\8. Basketball Equipment\obj\Debug\net6.0\8. Basketball Equipment.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\8. Basketball Equipment\obj\Debug\net6.0\8. Basketball Equipment.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\8. Basketball Equipment\obj\Debug\net6.0\8. Basketball Equipment.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\8. Basketball Equipment\obj\Debug\net6.0\8. Basketball Equipment.dll
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\8. Basketball Equipment\obj\Debug\net6.0\refint\8. Basketball Equipment.dll
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\8. Basketball Equipment\obj\Debug\net6.0\8. Basketball Equipment.pdb
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\8. Basketball Equipment\obj\Debug\net6.0\8. Basketball Equipment.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\8. Basketball Equipment\obj\Debug\net6.0\ref\8. Basketball Equipment.dll

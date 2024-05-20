@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\1. Cinema\bin\Debug\net6.0\1. Cinema.exe
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\1. Cinema\bin\Debug\net6.0\1. Cinema.deps.json
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\1. Cinema\bin\Debug\net6.0\1. Cinema.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\1. Cinema\bin\Debug\net6.0\1. Cinema.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\1. Cinema\bin\Debug\net6.0\1. Cinema.pdb
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\1. Cinema\obj\Debug\net6.0\1. Cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\1. Cinema\obj\Debug\net6.0\1. Cinema.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\1. Cinema\obj\Debug\net6.0\1. Cinema.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\1. Cinema\obj\Debug\net6.0\1. Cinema.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\1. Cinema\obj\Debug\net6.0\1. Cinema.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\1. Cinema\obj\Debug\net6.0\refint\1. Cinema.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\1. Cinema\obj\Debug\net6.0\1. Cinema.pdb
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\1. Cinema\obj\Debug\net6.0\1. Cinema.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\1. Cinema\obj\Debug\net6.0\ref\1. Cinema.dll

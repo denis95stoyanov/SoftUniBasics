@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\09YardGreening\bin\Debug\net8.0\09YardGreening.exe
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\09YardGreening\bin\Debug\net8.0\09YardGreening.deps.json
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\09YardGreening\bin\Debug\net8.0\09YardGreening.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\09YardGreening\bin\Debug\net8.0\09YardGreening.dll
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\09YardGreening\bin\Debug\net8.0\09YardGreening.pdb
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\09YardGreening\obj\Debug\net8.0\09YardGreening.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\09YardGreening\obj\Debug\net8.0\09YardGreening.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\09YardGreening\obj\Debug\net8.0\09YardGreening.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\09YardGreening\obj\Debug\net8.0\09YardGreening.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\09YardGreening\obj\Debug\net8.0\09YardGreening.dll
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\09YardGreening\obj\Debug\net8.0\refint\09YardGreening.dll
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\09YardGreening\obj\Debug\net8.0\09YardGreening.pdb
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\09YardGreening\obj\Debug\net8.0\09YardGreening.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\09YardGreening\obj\Debug\net8.0\ref\09YardGreening.dll

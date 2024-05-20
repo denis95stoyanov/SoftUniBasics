@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\5. Training Lab\bin\Debug\net6.0\5. Training Lab.exe
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\5. Training Lab\bin\Debug\net6.0\5. Training Lab.deps.json
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\5. Training Lab\bin\Debug\net6.0\5. Training Lab.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\5. Training Lab\bin\Debug\net6.0\5. Training Lab.dll
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\5. Training Lab\bin\Debug\net6.0\5. Training Lab.pdb
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\5. Training Lab\obj\Debug\net6.0\5. Training Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\5. Training Lab\obj\Debug\net6.0\5. Training Lab.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\5. Training Lab\obj\Debug\net6.0\5. Training Lab.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\5. Training Lab\obj\Debug\net6.0\5. Training Lab.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\5. Training Lab\obj\Debug\net6.0\5. Training Lab.dll
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\5. Training Lab\obj\Debug\net6.0\refint\5. Training Lab.dll
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\5. Training Lab\obj\Debug\net6.0\5. Training Lab.pdb
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\5. Training Lab\obj\Debug\net6.0\5. Training Lab.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\First Steps in Coding - More Exercises\5. Training Lab\obj\Debug\net6.0\ref\5. Training Lab.dll

@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\3. New House\bin\Debug\net6.0\3. New House.exe
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\3. New House\bin\Debug\net6.0\3. New House.deps.json
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\3. New House\bin\Debug\net6.0\3. New House.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\3. New House\bin\Debug\net6.0\3. New House.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\3. New House\bin\Debug\net6.0\3. New House.pdb
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\3. New House\obj\Debug\net6.0\3. New House.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\3. New House\obj\Debug\net6.0\3. New House.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\3. New House\obj\Debug\net6.0\3. New House.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\3. New House\obj\Debug\net6.0\3. New House.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\3. New House\obj\Debug\net6.0\3. New House.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\3. New House\obj\Debug\net6.0\refint\3. New House.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\3. New House\obj\Debug\net6.0\3. New House.pdb
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\3. New House\obj\Debug\net6.0\3. New House.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\3. New House\obj\Debug\net6.0\ref\3. New House.dll

@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\1USDtoBGN\bin\Debug\net8.0\1USDtoBGN.exe
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\1USDtoBGN\bin\Debug\net8.0\1USDtoBGN.deps.json
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\1USDtoBGN\bin\Debug\net8.0\1USDtoBGN.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\1USDtoBGN\bin\Debug\net8.0\1USDtoBGN.dll
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\1USDtoBGN\bin\Debug\net8.0\1USDtoBGN.pdb
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\1USDtoBGN\obj\Debug\net8.0\1USDtoBGN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\1USDtoBGN\obj\Debug\net8.0\1USDtoBGN.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\1USDtoBGN\obj\Debug\net8.0\1USDtoBGN.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\1USDtoBGN\obj\Debug\net8.0\1USDtoBGN.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\1USDtoBGN\obj\Debug\net8.0\1USDtoBGN.dll
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\1USDtoBGN\obj\Debug\net8.0\refint\1USDtoBGN.dll
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\1USDtoBGN\obj\Debug\net8.0\1USDtoBGN.pdb
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\1USDtoBGN\obj\Debug\net8.0\1USDtoBGN.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\TrainingFirstStepsInCodingC#\1USDtoBGN\obj\Debug\net8.0\ref\1USDtoBGN.dll

@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\4. Toy Shop\bin\Debug\net6.0\4. Toy Shop.exe
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\4. Toy Shop\bin\Debug\net6.0\4. Toy Shop.deps.json
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\4. Toy Shop\bin\Debug\net6.0\4. Toy Shop.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\4. Toy Shop\bin\Debug\net6.0\4. Toy Shop.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\4. Toy Shop\bin\Debug\net6.0\4. Toy Shop.pdb
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\4. Toy Shop\obj\Debug\net6.0\4. Toy Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\4. Toy Shop\obj\Debug\net6.0\4. Toy Shop.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\4. Toy Shop\obj\Debug\net6.0\4. Toy Shop.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\4. Toy Shop\obj\Debug\net6.0\4. Toy Shop.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\4. Toy Shop\obj\Debug\net6.0\4. Toy Shop.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\4. Toy Shop\obj\Debug\net6.0\refint\4. Toy Shop.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\4. Toy Shop\obj\Debug\net6.0\4. Toy Shop.pdb
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\4. Toy Shop\obj\Debug\net6.0\4. Toy Shop.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\4. Toy Shop\obj\Debug\net6.0\ref\4. Toy Shop.dll

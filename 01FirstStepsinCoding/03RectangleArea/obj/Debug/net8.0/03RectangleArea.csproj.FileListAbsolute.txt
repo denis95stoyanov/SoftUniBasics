@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\03RectangleArea\bin\Debug\net8.0\03RectangleArea.exe
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\03RectangleArea\bin\Debug\net8.0\03RectangleArea.deps.json
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\03RectangleArea\bin\Debug\net8.0\03RectangleArea.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\03RectangleArea\bin\Debug\net8.0\03RectangleArea.dll
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\03RectangleArea\bin\Debug\net8.0\03RectangleArea.pdb
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\03RectangleArea\obj\Debug\net8.0\03RectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\03RectangleArea\obj\Debug\net8.0\03RectangleArea.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\03RectangleArea\obj\Debug\net8.0\03RectangleArea.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\03RectangleArea\obj\Debug\net8.0\03RectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\03RectangleArea\obj\Debug\net8.0\03RectangleArea.dll
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\03RectangleArea\obj\Debug\net8.0\refint\03RectangleArea.dll
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\03RectangleArea\obj\Debug\net8.0\03RectangleArea.pdb
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\03RectangleArea\obj\Debug\net8.0\03RectangleArea.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\03RectangleArea\obj\Debug\net8.0\ref\03RectangleArea.dll

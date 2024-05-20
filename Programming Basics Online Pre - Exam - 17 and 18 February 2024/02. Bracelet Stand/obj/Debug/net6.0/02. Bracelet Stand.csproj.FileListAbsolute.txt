@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\02. Bracelet Stand\bin\Debug\net6.0\02. Bracelet Stand.exe
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\02. Bracelet Stand\bin\Debug\net6.0\02. Bracelet Stand.deps.json
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\02. Bracelet Stand\bin\Debug\net6.0\02. Bracelet Stand.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\02. Bracelet Stand\bin\Debug\net6.0\02. Bracelet Stand.dll
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\02. Bracelet Stand\bin\Debug\net6.0\02. Bracelet Stand.pdb
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\02. Bracelet Stand\obj\Debug\net6.0\02. Bracelet Stand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\02. Bracelet Stand\obj\Debug\net6.0\02. Bracelet Stand.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\02. Bracelet Stand\obj\Debug\net6.0\02. Bracelet Stand.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\02. Bracelet Stand\obj\Debug\net6.0\02. Bracelet Stand.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\02. Bracelet Stand\obj\Debug\net6.0\02. Bracelet Stand.dll
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\02. Bracelet Stand\obj\Debug\net6.0\refint\02. Bracelet Stand.dll
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\02. Bracelet Stand\obj\Debug\net6.0\02. Bracelet Stand.pdb
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\02. Bracelet Stand\obj\Debug\net6.0\02. Bracelet Stand.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\Programming Basics Online Pre - Exam - 17 and 18 February 2024\02. Bracelet Stand\obj\Debug\net6.0\ref\02. Bracelet Stand.dll

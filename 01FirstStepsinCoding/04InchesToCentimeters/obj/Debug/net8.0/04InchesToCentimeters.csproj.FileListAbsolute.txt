@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\04InchesToCentimeters\bin\Debug\net8.0\04InchesToCentimeters.exe
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\04InchesToCentimeters\bin\Debug\net8.0\04InchesToCentimeters.deps.json
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\04InchesToCentimeters\bin\Debug\net8.0\04InchesToCentimeters.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\04InchesToCentimeters\bin\Debug\net8.0\04InchesToCentimeters.dll
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\04InchesToCentimeters\bin\Debug\net8.0\04InchesToCentimeters.pdb
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\04InchesToCentimeters\obj\Debug\net8.0\04InchesToCentimeters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\04InchesToCentimeters\obj\Debug\net8.0\04InchesToCentimeters.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\04InchesToCentimeters\obj\Debug\net8.0\04InchesToCentimeters.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\04InchesToCentimeters\obj\Debug\net8.0\04InchesToCentimeters.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\04InchesToCentimeters\obj\Debug\net8.0\04InchesToCentimeters.dll
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\04InchesToCentimeters\obj\Debug\net8.0\refint\04InchesToCentimeters.dll
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\04InchesToCentimeters\obj\Debug\net8.0\04InchesToCentimeters.pdb
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\04InchesToCentimeters\obj\Debug\net8.0\04InchesToCentimeters.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\04InchesToCentimeters\obj\Debug\net8.0\ref\04InchesToCentimeters.dll

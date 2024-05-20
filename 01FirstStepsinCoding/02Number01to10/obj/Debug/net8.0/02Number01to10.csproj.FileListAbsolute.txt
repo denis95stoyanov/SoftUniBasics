@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\02Number01to10\bin\Debug\net8.0\02Number01to10.exe
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\02Number01to10\bin\Debug\net8.0\02Number01to10.deps.json
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\02Number01to10\bin\Debug\net8.0\02Number01to10.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\02Number01to10\bin\Debug\net8.0\02Number01to10.dll
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\02Number01to10\bin\Debug\net8.0\02Number01to10.pdb
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\02Number01to10\obj\Debug\net8.0\02Number01to10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\02Number01to10\obj\Debug\net8.0\02Number01to10.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\02Number01to10\obj\Debug\net8.0\02Number01to10.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\02Number01to10\obj\Debug\net8.0\02Number01to10.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\02Number01to10\obj\Debug\net8.0\02Number01to10.dll
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\02Number01to10\obj\Debug\net8.0\refint\02Number01to10.dll
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\02Number01to10\obj\Debug\net8.0\02Number01to10.pdb
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\02Number01to10\obj\Debug\net8.0\02Number01to10.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\01FirstStepsinCoding\02Number01to10\obj\Debug\net8.0\ref\02Number01to10.dll

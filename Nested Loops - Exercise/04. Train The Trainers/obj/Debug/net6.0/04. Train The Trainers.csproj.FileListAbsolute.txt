@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\Nested Loops - Exercise\04. Train The Trainers\bin\Debug\net6.0\04. Train The Trainers.exe
+C:\Users\gabri\Desktop\SoftUni\Nested Loops - Exercise\04. Train The Trainers\bin\Debug\net6.0\04. Train The Trainers.deps.json
+C:\Users\gabri\Desktop\SoftUni\Nested Loops - Exercise\04. Train The Trainers\bin\Debug\net6.0\04. Train The Trainers.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\Nested Loops - Exercise\04. Train The Trainers\bin\Debug\net6.0\04. Train The Trainers.dll
+C:\Users\gabri\Desktop\SoftUni\Nested Loops - Exercise\04. Train The Trainers\bin\Debug\net6.0\04. Train The Trainers.pdb
+C:\Users\gabri\Desktop\SoftUni\Nested Loops - Exercise\04. Train The Trainers\obj\Debug\net6.0\04. Train The Trainers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\Nested Loops - Exercise\04. Train The Trainers\obj\Debug\net6.0\04. Train The Trainers.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Nested Loops - Exercise\04. Train The Trainers\obj\Debug\net6.0\04. Train The Trainers.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\Nested Loops - Exercise\04. Train The Trainers\obj\Debug\net6.0\04. Train The Trainers.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Nested Loops - Exercise\04. Train The Trainers\obj\Debug\net6.0\04. Train The Trainers.dll
+C:\Users\gabri\Desktop\SoftUni\Nested Loops - Exercise\04. Train The Trainers\obj\Debug\net6.0\refint\04. Train The Trainers.dll
+C:\Users\gabri\Desktop\SoftUni\Nested Loops - Exercise\04. Train The Trainers\obj\Debug\net6.0\04. Train The Trainers.pdb
+C:\Users\gabri\Desktop\SoftUni\Nested Loops - Exercise\04. Train The Trainers\obj\Debug\net6.0\04. Train The Trainers.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\Nested Loops - Exercise\04. Train The Trainers\obj\Debug\net6.0\ref\04. Train The Trainers.dll

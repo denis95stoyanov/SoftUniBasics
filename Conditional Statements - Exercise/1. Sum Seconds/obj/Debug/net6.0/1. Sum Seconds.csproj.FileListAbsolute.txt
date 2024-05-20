@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\1. Sum Seconds\bin\Debug\net6.0\1. Sum Seconds.exe
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\1. Sum Seconds\bin\Debug\net6.0\1. Sum Seconds.deps.json
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\1. Sum Seconds\bin\Debug\net6.0\1. Sum Seconds.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\1. Sum Seconds\bin\Debug\net6.0\1. Sum Seconds.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\1. Sum Seconds\bin\Debug\net6.0\1. Sum Seconds.pdb
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\1. Sum Seconds\obj\Debug\net6.0\1. Sum Seconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\1. Sum Seconds\obj\Debug\net6.0\1. Sum Seconds.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\1. Sum Seconds\obj\Debug\net6.0\1. Sum Seconds.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\1. Sum Seconds\obj\Debug\net6.0\1. Sum Seconds.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\1. Sum Seconds\obj\Debug\net6.0\1. Sum Seconds.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\1. Sum Seconds\obj\Debug\net6.0\refint\1. Sum Seconds.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\1. Sum Seconds\obj\Debug\net6.0\1. Sum Seconds.pdb
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\1. Sum Seconds\obj\Debug\net6.0\1. Sum Seconds.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Exercise\1. Sum Seconds\obj\Debug\net6.0\ref\1. Sum Seconds.dll

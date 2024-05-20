@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\Desktop\\SoftUni\\While Loop - Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E54AA3C9-722A-4B6F-867C-52C17D71D6C4}|07. Moving\\07. Moving.csproj|c:\\users\\gabri\\desktop\\softuni\\while loop - exercise\\07. moving\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54AA3C9-722A-4B6F-867C-52C17D71D6C4}|07. Moving\\07. Moving.csproj|solutionrelative:07. moving\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBC48A5-2522-4BFD-81F9-E44EBB756FCB}|06. Cake\\06. Cake.csproj|c:\\users\\gabri\\desktop\\softuni\\while loop - exercise\\06. cake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBC48A5-2522-4BFD-81F9-E44EBB756FCB}|06. Cake\\06. Cake.csproj|solutionrelative:06. cake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\SoftUni\\While Loop - Exercise\\06. Cake\\Program.cs",
+              "RelativeDocumentMoniker": "06. Cake\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\SoftUni\\While Loop - Exercise\\06. Cake\\Program.cs",
+              "RelativeToolTip": "06. Cake\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-10T16:50:32.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\SoftUni\\While Loop - Exercise\\07. Moving\\Program.cs",
+              "RelativeDocumentMoniker": "07. Moving\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\SoftUni\\While Loop - Exercise\\07. Moving\\Program.cs",
+              "RelativeToolTip": "07. Moving\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-10T16:45:37.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

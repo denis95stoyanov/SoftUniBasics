@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\While Loop - Exercise\01. Old Books\bin\Debug\net6.0\01. Old Books.exe
+C:\Users\gabri\Desktop\SoftUni\While Loop - Exercise\01. Old Books\bin\Debug\net6.0\01. Old Books.deps.json
+C:\Users\gabri\Desktop\SoftUni\While Loop - Exercise\01. Old Books\bin\Debug\net6.0\01. Old Books.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\While Loop - Exercise\01. Old Books\bin\Debug\net6.0\01. Old Books.dll
+C:\Users\gabri\Desktop\SoftUni\While Loop - Exercise\01. Old Books\bin\Debug\net6.0\01. Old Books.pdb
+C:\Users\gabri\Desktop\SoftUni\While Loop - Exercise\01. Old Books\obj\Debug\net6.0\01. Old Books.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\While Loop - Exercise\01. Old Books\obj\Debug\net6.0\01. Old Books.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\While Loop - Exercise\01. Old Books\obj\Debug\net6.0\01. Old Books.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\While Loop - Exercise\01. Old Books\obj\Debug\net6.0\01. Old Books.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\While Loop - Exercise\01. Old Books\obj\Debug\net6.0\01. Old Books.dll
+C:\Users\gabri\Desktop\SoftUni\While Loop - Exercise\01. Old Books\obj\Debug\net6.0\refint\01. Old Books.dll
+C:\Users\gabri\Desktop\SoftUni\While Loop - Exercise\01. Old Books\obj\Debug\net6.0\01. Old Books.pdb
+C:\Users\gabri\Desktop\SoftUni\While Loop - Exercise\01. Old Books\obj\Debug\net6.0\01. Old Books.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\While Loop - Exercise\01. Old Books\obj\Debug\net6.0\ref\01. Old Books.dll

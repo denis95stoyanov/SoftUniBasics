@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\9. Ski Trip\bin\Debug\net6.0\9. Ski Trip.exe
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\9. Ski Trip\bin\Debug\net6.0\9. Ski Trip.deps.json
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\9. Ski Trip\bin\Debug\net6.0\9. Ski Trip.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\9. Ski Trip\bin\Debug\net6.0\9. Ski Trip.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\9. Ski Trip\bin\Debug\net6.0\9. Ski Trip.pdb
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\9. Ski Trip\obj\Debug\net6.0\9. Ski Trip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\9. Ski Trip\obj\Debug\net6.0\9. Ski Trip.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\9. Ski Trip\obj\Debug\net6.0\9. Ski Trip.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\9. Ski Trip\obj\Debug\net6.0\9. Ski Trip.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\9. Ski Trip\obj\Debug\net6.0\9. Ski Trip.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\9. Ski Trip\obj\Debug\net6.0\refint\9. Ski Trip.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\9. Ski Trip\obj\Debug\net6.0\9. Ski Trip.pdb
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\9. Ski Trip\obj\Debug\net6.0\9. Ski Trip.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\9. Ski Trip\obj\Debug\net6.0\ref\9. Ski Trip.dll

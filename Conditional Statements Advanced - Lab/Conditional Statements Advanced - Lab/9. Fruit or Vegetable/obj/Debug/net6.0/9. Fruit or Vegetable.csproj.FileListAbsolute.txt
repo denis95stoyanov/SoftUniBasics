@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\9. Fruit or Vegetable\bin\Debug\net6.0\9. Fruit or Vegetable.exe
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\9. Fruit or Vegetable\bin\Debug\net6.0\9. Fruit or Vegetable.deps.json
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\9. Fruit or Vegetable\bin\Debug\net6.0\9. Fruit or Vegetable.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\9. Fruit or Vegetable\bin\Debug\net6.0\9. Fruit or Vegetable.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\9. Fruit or Vegetable\bin\Debug\net6.0\9. Fruit or Vegetable.pdb
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\9. Fruit or Vegetable\obj\Debug\net6.0\9. Fruit or Vegetable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\9. Fruit or Vegetable\obj\Debug\net6.0\9. Fruit or Vegetable.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\9. Fruit or Vegetable\obj\Debug\net6.0\9. Fruit or Vegetable.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\9. Fruit or Vegetable\obj\Debug\net6.0\9. Fruit or Vegetable.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\9. Fruit or Vegetable\obj\Debug\net6.0\9. Fruit or Vegetable.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\9. Fruit or Vegetable\obj\Debug\net6.0\refint\9. Fruit or Vegetable.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\9. Fruit or Vegetable\obj\Debug\net6.0\9. Fruit or Vegetable.pdb
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\9. Fruit or Vegetable\obj\Debug\net6.0\9. Fruit or Vegetable.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\9. Fruit or Vegetable\obj\Debug\net6.0\ref\9. Fruit or Vegetable.dll

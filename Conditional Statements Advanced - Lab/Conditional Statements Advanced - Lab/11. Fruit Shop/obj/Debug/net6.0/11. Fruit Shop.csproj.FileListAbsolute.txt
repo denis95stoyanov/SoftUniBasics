@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\net6.0\11. Fruit Shop.exe
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\net6.0\11. Fruit Shop.deps.json
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\net6.0\11. Fruit Shop.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\net6.0\11. Fruit Shop.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\net6.0\11. Fruit Shop.pdb
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net6.0\11. Fruit Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net6.0\11. Fruit Shop.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net6.0\11. Fruit Shop.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net6.0\11. Fruit Shop.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net6.0\11. Fruit Shop.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net6.0\refint\11. Fruit Shop.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net6.0\11. Fruit Shop.pdb
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net6.0\11. Fruit Shop.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net6.0\ref\11. Fruit Shop.dll

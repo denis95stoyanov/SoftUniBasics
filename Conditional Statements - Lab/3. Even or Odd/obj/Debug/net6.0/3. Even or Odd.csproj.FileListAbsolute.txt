@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Lab\3. Even or Odd\bin\Debug\net6.0\3. Even or Odd.exe
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Lab\3. Even or Odd\bin\Debug\net6.0\3. Even or Odd.deps.json
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Lab\3. Even or Odd\bin\Debug\net6.0\3. Even or Odd.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Lab\3. Even or Odd\bin\Debug\net6.0\3. Even or Odd.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Lab\3. Even or Odd\bin\Debug\net6.0\3. Even or Odd.pdb
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Lab\3. Even or Odd\obj\Debug\net6.0\3. Even or Odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Lab\3. Even or Odd\obj\Debug\net6.0\3. Even or Odd.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Lab\3. Even or Odd\obj\Debug\net6.0\3. Even or Odd.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Lab\3. Even or Odd\obj\Debug\net6.0\3. Even or Odd.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Lab\3. Even or Odd\obj\Debug\net6.0\3. Even or Odd.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Lab\3. Even or Odd\obj\Debug\net6.0\refint\3. Even or Odd.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Lab\3. Even or Odd\obj\Debug\net6.0\3. Even or Odd.pdb
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Lab\3. Even or Odd\obj\Debug\net6.0\3. Even or Odd.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements - Lab\3. Even or Odd\obj\Debug\net6.0\ref\3. Even or Odd.dll

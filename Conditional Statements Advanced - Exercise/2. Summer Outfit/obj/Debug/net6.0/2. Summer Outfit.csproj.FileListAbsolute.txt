@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\2. Summer Outfit\bin\Debug\net6.0\2. Summer Outfit.exe
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\2. Summer Outfit\bin\Debug\net6.0\2. Summer Outfit.deps.json
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\2. Summer Outfit\bin\Debug\net6.0\2. Summer Outfit.runtimeconfig.json
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\2. Summer Outfit\bin\Debug\net6.0\2. Summer Outfit.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\2. Summer Outfit\bin\Debug\net6.0\2. Summer Outfit.pdb
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\2. Summer Outfit\obj\Debug\net6.0\2. Summer Outfit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\2. Summer Outfit\obj\Debug\net6.0\2. Summer Outfit.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\2. Summer Outfit\obj\Debug\net6.0\2. Summer Outfit.AssemblyInfo.cs
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\2. Summer Outfit\obj\Debug\net6.0\2. Summer Outfit.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\2. Summer Outfit\obj\Debug\net6.0\2. Summer Outfit.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\2. Summer Outfit\obj\Debug\net6.0\refint\2. Summer Outfit.dll
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\2. Summer Outfit\obj\Debug\net6.0\2. Summer Outfit.pdb
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\2. Summer Outfit\obj\Debug\net6.0\2. Summer Outfit.genruntimeconfig.cache
+C:\Users\gabri\Desktop\SoftUni\Conditional Statements Advanced - Exercise\2. Summer Outfit\obj\Debug\net6.0\ref\2. Summer Outfit.dll
